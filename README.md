@@ -6,5 +6,5 @@ Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
 
 QTreeWidgetExample2
 
-![Screenshot](CppQTreeWidgetExample2.png)
+![Screenshot](pics/CppQTreeWidgetExample2.png)
 
