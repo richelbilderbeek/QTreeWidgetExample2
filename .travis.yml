@@ -23,7 +23,7 @@ services:
 script: 
   - qmake
   - make --silent
-  - ./QTreeWidgetExample1 &
+  - ./QTreeWidgetExample2 &
   - sleep 10
   - sudo killall -9 QTreeWidgetExample2
   - ./get_code_cov.sh >/dev/null
